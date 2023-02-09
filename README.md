@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dovelus
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on Python Hacking tools
+- 👀 I’m interested in Ethical Hacking and Programming
+- 🌱 I’m currently working as SoC Analyst 
+- 💞️ I’m looking to collaborate on Python written Hacking tools and Go Conversion of Existing one
 
 <!---
 Dovelus/Dovelus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
