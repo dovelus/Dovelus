@@ -1,6 +1,6 @@
 -  Hi, I’m @Dovelus
 -  I’m interested in Ethical Hacking and Programming
--  I’m currently working as SoC Analyst and Studing Malware Dev
+-  I’m currently working as SoC Analyst and Studying Malware Dev
 -  I’m looking to collaborate on Python written Hacking tools and Nim/Go Conversion of Existing one
 
 <!---
