@@ -1,5 +1,5 @@
 -  Hi, I’m @Dovelus
--  I’m interested in Ethical Hacking and Programming
+-  I’m interested in Malware Development and Detection Engineering
 -  I’m currently working as SoC Analyst and Studying Malware Dev
 
 <!---
